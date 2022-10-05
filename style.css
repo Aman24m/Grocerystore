@@ -1,0 +1,84 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: url('mar.jpg');
+    padding: center;
+
+    height: 1936px;
+    padding: 20px 28px 9px 7px;
+}
+
+.navbar {
+    background-color: rgb(37, 138, 240);
+    border-radius: 20px;
+
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.navbar li a:hover {
+    color: rgb(223, 206, 15);
+
+}
+
+.navbar ul {
+    overflow: auto;
+    list-style: none;
+
+}
+
+.navbar li {
+    float: left;
+    margin: 15px 18px;
+    padding: 3px 3px;
+}
+
+.search {
+    float: right;
+    margin: 14px 15px;
+    padding: 3px 5px;
+    border-radius: 3px;
+    width: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.search:hover {
+    background-color: antiquewhite;
+}
+
+.big {
+    font-size: 23px;
+}
+
+p.class1 {
+    padding: 70px;
+    margin: -16px -8px;
+    color: #00e04c;
+    font-size: 18px;
+}
+p.p2{
+    color: #de742d;
+    padding: 53px;
+    margin: -85px 7px;
+    font-size: 18px;
+}
+p.p2 a:hover{
+    background-color: #00e04c;
+}
+article{
+    margin: 12px;
+}
+#pro{
+    padding: 20px;
+    margin: 88px 54px;
+    color: #68e9cf;
+}
+
+
+ 
